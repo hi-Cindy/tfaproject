@@ -1,3 +1,14 @@
-This is the readme for my TFA project
+This is the readme file for the Tools for Analytics Project of Group 31, Section 2.
 
-111111
+### Files
+## Top10.ipynb The top 10 causes of 
+# Analyzes what the top 10 causes of calls to 311 are in 10027.
+## Parking.ipynb
+# Analyzes whether illegal parking incidents are a larger fraction of total 311 incidents in 10027 than they are in general.
+
+### Group Name and Section:
+# Group Name: Group 31
+# Section: 2
+
+### Group Members
+# UNI: gy2300, qs2246
